@@ -6,5 +6,6 @@ Tecnologias Utilizadas:
  - Tailwind
  - NPM
  
-![teste](https://github.com/Gustavosouza2/react-teste/assets/92954102/17a9d95c-0442-433e-a988-357e10a144bb)
-![react-teste](https://github.com/Gustavosouza2/react-teste/assets/92954102/e48a9120-2618-44af-ab1c-f306d49d52d8)
+
+![figma-teste-react-list](https://github.com/Gustavosouza2/react-teste/assets/92954102/776f99a0-1050-4289-94d1-55aa06ef46a7)
+![figma-test-react-form](https://github.com/Gustavosouza2/react-teste/assets/92954102/3375d03b-0f56-4756-9c65-97324c83d4cb)
